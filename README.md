@@ -1,3 +1,3 @@
 # DVD-Screensaver 💿
-Bouncy DVD made in Python with Pygame <br />
+Bouncy DVD made in Python with Pygame. <br />
 This project was imported from Repl.it.
